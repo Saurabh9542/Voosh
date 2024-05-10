@@ -1,0 +1,11 @@
+{
+  "development": {
+    "dialect": "postgres",
+    "url": "postgres://postgres:root@localhost:5432/postgres"
+  },
+  "test": {
+
+  },
+  "production": {
+  }
+}
